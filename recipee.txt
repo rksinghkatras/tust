@@ -6,5 +6,8 @@ kheer
 Pasta
 paneer
 
+bean
+pizza
+
 
 thank you:)
